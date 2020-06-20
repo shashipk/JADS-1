@@ -16,7 +16,7 @@ public class Main2 {
 
     }
 
-    private static class MyThread extends Animal implements Runnable {
+    private static class MyThread implements Runnable {
 
         @Override
         public void run(){
