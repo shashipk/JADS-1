@@ -62,3 +62,25 @@ https://www.youtube.com/watch?v=o8RO38KbWvA&list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSr
 https://www.youtube.com/watch?v=upoIwn4rWCo&list=PLqq-6Pq4lTTaoaVoQVfRJPqvNTCjcTvJB
 
 ==============================================================
+
+# Other Links:
+
+For Deploying on AWS:  https://www.youtube.com/watch?v=6RrqytT0-I8
+
+Object Oriented Design (OOPs) related questions:
+
+https://www.geeksforgeeks.org/design-snake-game/
+
+https://www.geeksforgeeks.org/design-online-hotel-booking-system-like-oyo-rooms/
+
+https://www.geeksforgeeks.org/design-an-online-book-reader-system/
+
+# Resume: 
+
+https://www.careercup.com/resume
+
+You can add these skills to your resume/profile after the course completion: 
+
+# Java, Spring / Spring Boot, REST APIs, MySQL, JPA / Hibernate, JDBC, Socket Programming, Maven, Postman, Swagger
+
+
