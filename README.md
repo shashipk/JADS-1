@@ -81,6 +81,12 @@ https://www.careercup.com/resume
 
 You can add these skills to your resume/profile after the course completion: 
 
-# Java, Spring / Spring Boot, REST APIs, MySQL, JPA / Hibernate, JDBC, Socket Programming, Maven, Postman, Swagger
+Java, Spring / Spring Boot, REST APIs, MySQL, JPA / Hibernate, JDBC, Socket Programming, Maven, Postman, Swagger
+
+# Java and Spring Interview Questions:
+
+https://www.baeldung.com/spring-boot-interview-questions?fbclid=IwAR1LAIhIP89fMGTcZymcWR55QQu0a-z0q4alXmwLZMMKTaS6JHlb4lpvRjs
+
+https://www.journaldev.com/2366/core-java-interview-questions-and-answers
 
 
