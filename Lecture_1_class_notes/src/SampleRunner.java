@@ -106,11 +106,12 @@ public class SampleRunner {
 }
 class Adder{
 
-   public int add(int a, int b){
+   public int add(int a, int b)
+   {
         return a+b;
     }
 
-    public String add (String a, String b){
+    public String add(String a, String b){
         return a+b;
     }
 }
